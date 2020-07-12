@@ -8,4 +8,4 @@ touch "${LANGUAGE}_embassy"
 
 echo "This program is now closing."
 
-echo "Aditya making change to main branch."
+echo "Aditya is making a change to main branch."
